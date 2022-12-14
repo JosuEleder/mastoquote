@@ -6,17 +6,20 @@ cita:
   es: "quote"
   ca: "quote"
   en: "quote"
-  gl: "quote"  
+  gl: "quote"
+  eu: "quote"
 
 mencion:
   es: "Mencióname con la palabra"
   ca: "Esmenta'm amb la paraula"
   en: "Mention me with the word"  
   gl: "Mencióname coa palabra"
+  eu: "Aipa nazazu hurrengo hitzaz:"
 
 respuesta:
   es: "y te iluminaré con la sabiduría de"
   ca: "i t'il·luminaré amb la saviesa de"
   en: "and I will enlighten you with the wisdom of"  
   gl: "e iluminareiche coa sabedoría de"
+  eu: "eta honen jakintasunaz argituko zaitu:"
 
